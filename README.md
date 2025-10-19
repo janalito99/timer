@@ -1,2 +1,2 @@
 # timer
-timer project
+my first app
